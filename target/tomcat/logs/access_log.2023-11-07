@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:48:41 +0300] "GET /MySemwork HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:48:41 +0300] "GET /MySemwork/ HTTP/1.1" 200 2057 http-bio-8080-exec-4 27
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:48:43 +0300] "GET /MySemwork/signUp HTTP/1.1" 200 1039 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:48:53 +0300] "POST /servlets/signUp HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:50:39 +0300] "GET /MySemwork HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:50:39 +0300] "GET /MySemwork/ HTTP/1.1" 200 2057 http-bio-8080-exec-1 20
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:50:40 +0300] "GET /MySemwork/signUp HTTP/1.1" 200 1039 http-bio-8080-exec-3 10
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:50:50 +0300] "POST /servlets/signUp HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:59:43 +0300] "GET /MySemwork HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:59:43 +0300] "GET /MySemwork/ HTTP/1.1" 200 2057 http-bio-8080-exec-2 9
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:59:45 +0300] "GET /MySemwork/signUp HTTP/1.1" 200 1039 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:59:56 +0300] "POST /servlets/signUp HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:15:02:03 +0300] "GET /MySemwork HTTP/1.1" 302 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:15:02:03 +0300] "GET /MySemwork/ HTTP/1.1" 200 2057 http-bio-8080-exec-5 13
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:15:02:05 +0300] "GET /MySemwork/signUp HTTP/1.1" 200 1039 http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:15:02:12 +0300] "POST /servlets/signUp HTTP/1.1" 404 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:15:51:49 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-10 0

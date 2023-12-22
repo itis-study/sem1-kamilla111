@@ -1,0 +1,12 @@
+org/example/Task2.class
+org/example/Task.class
+org/example/SignInServlet.class
+org/example/SignUpServlet.class
+org/example/Task3.class
+org/example/Task1.class
+org/example/InMemoryClass.class
+org/example/JavaSourceFromString.class
+org/example/ConnectionContainer.class
+org/example/DynamicCompiler$1JavaSourceFromString.class
+org/example/JavaClassAsBytes.class
+org/example/DynamicCompiler.class

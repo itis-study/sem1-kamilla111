@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:02:50 +0300] "GET /MySemwork HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:02:50 +0300] "GET /MySemwork/ HTTP/1.1" 200 10395 http-bio-8080-exec-3 39
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:02:50 +0300] "GET /MySemwork/js/js.js HTTP/1.1" 304 - http-bio-8080-exec-4 6
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:02:50 +0300] "GET /MySemwork/images/img_5.png HTTP/1.1" 200 3993969 http-bio-8080-exec-5 69
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:01 +0300] "GET /MySemwork/compilr HTTP/1.1" 404 985 http-bio-8080-exec-6 61
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:03 +0300] "GET /MySemwork/compile HTTP/1.1" 405 1065 http-bio-8080-exec-7 7
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:28 +0300] "GET /MySemwork/signIn HTTP/1.1" 200 552 http-bio-8080-exec-8 37
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:28 +0300] "GET /MySemwork/images/img_3.png HTTP/1.1" 200 192819 http-bio-8080-exec-9 9
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:32 +0300] "GET /MySemwork/signUp HTTP/1.1" 200 803 http-bio-8080-exec-10 27
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:35 +0300] "GET /MySemwork/tasks.jsp HTTP/1.1" 200 1241 http-bio-8080-exec-10 10
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:38 +0300] "GET /MySemwork/task1.jsp? HTTP/1.1" 200 3794 http-bio-8080-exec-10 10
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:40 +0300] "GET /MySemwork/task2.jsp? HTTP/1.1" 200 4627 http-bio-8080-exec-10 12
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:44 +0300] "GET /MySemwork/task3.jsp? HTTP/1.1" 200 3338 http-bio-8080-exec-10 17
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:44 +0300] "GET /MySemwork/images/img_1.png HTTP/1.1" 304 - http-bio-8080-exec-10 5
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:44 +0300] "GET /MySemwork/images/img.png HTTP/1.1" 304 - http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:46 +0300] "GET /MySemwork/tasks.jsp? HTTP/1.1" 200 1241 http-bio-8080-exec-2 4
+0:0:0:0:0:0:0:1 - - [13/Nov/2023:10:03:49 +0300] "GET /MySemwork/index.jsp? HTTP/1.1" 200 10395 http-bio-8080-exec-2 6

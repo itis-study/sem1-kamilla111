@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [15/Nov/2023:08:21:25 +0300] "GET /MySemwork HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [15/Nov/2023:08:21:25 +0300] "GET /MySemwork/ HTTP/1.1" 200 10395 http-bio-8080-exec-3 48
+0:0:0:0:0:0:0:1 - - [15/Nov/2023:08:21:25 +0300] "GET /MySemwork/js/js.js HTTP/1.1" 304 - http-bio-8080-exec-4 9
+0:0:0:0:0:0:0:1 - - [15/Nov/2023:08:21:26 +0300] "GET /MySemwork/images/img_5.png HTTP/1.1" 200 3993969 http-bio-8080-exec-5 155
