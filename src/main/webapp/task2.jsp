@@ -7,7 +7,7 @@
             background-image: url("images/img_5.png");
         }
         .no-background {
-            background-image: url("images/img_5.png");
+            backg git push -f -u origin mainround-image: url("images/img_5.png");
         }
     </style></head>
 <body>
